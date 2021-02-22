@@ -23,5 +23,14 @@ Here are some ideas to get you started:
 <a href="mailto:tejasvi.y.mhase@gmail.com"><img src="https://github.com/99002669/99002669/blob/main/gmail.png" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/99002669"><img src="https://github.com/99002669/99002669/blob/main/github-logo.png" width="30" height="30"></a>
 
+## Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=99002669 alt=Tejasvi Mhase /> </p>
 [![My GitHub Stats](alt="codeSTACKr's GitHub Stats" https://github-readme-stats.vercel.app/api/?username=99002669&count_private=true&theme=tokyonight&showicons=true)]()</br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=99002669&langs_count=5&theme=tokyonight)]()
+
+
+
+<!--
+[![Github stats](https://github-readme-stats.vercel.app/api?username=99002688&show_icons=true&include_all_commits=true)](https://github.com/99002688/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99002688&layout=compact)](https://github.com/99002688/github-readme-stats)
+-->
