@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <!-- icon links-->
 
-[1.1]:https://github.com/99002669/99002669/blob/main/twitter.png
-[2.1]:https://github.com/99002669/99002669/blob/main/linkedin.png
+[1.1]:https://github.com/99002669/99002669/blob/main/twitter.png 
+[2.1]:https://github.com/99002669/99002669/blob/main/linkedin.png width="48"
 [3.1]:https://github.com/99002669/99002669/blob/main/facebook.png
 [4.1]:https://github.com/99002669/99002669/blob/main/instagram.png
 [5.1]:https://github.com/99002669/99002669/blob/main/github.jpg
