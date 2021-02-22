@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=99002669 alt=Tejasvi Mhase /> </p>
-[![My GitHub Stats](alt="codeSTACKr's GitHub Stats" https://github-readme-stats.vercel.app/api/?username=99002669&count_private=true&theme=tokyonight&showicons=true)]()</br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=99002669&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=99002669&langs_count=5&theme=tokyonight)]()
 
 
