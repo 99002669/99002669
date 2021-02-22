@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="mailto:tejasvi.y.mhase@gmail.com">
-  <img src="https://github.com/99002669/99002669/blob/main/gmail.png/100/100" height="100" width="100">
-</a>
+  <img href="mailto:tejasvi.y.mhase@gmail.com" src="https://github.com/99002669/99002669/blob/main/gmail.png/100/100" height="100" width="100"/>
