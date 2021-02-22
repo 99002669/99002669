@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [1.1]:
 [2.1]:
-[3.1]:https://github.com/99002669/99002669/blob/main/facebook.png
+[3.1]:<img src="https://your-image-url.type" width="100" height="100">
 [4.1]:
 [5.1]:
 [6.1]:
