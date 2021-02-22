@@ -1,5 +1,5 @@
 ### Hi there, I'm Tejasvi Mhase👋
-Reach me [tejasvi.y.mhase@gmail.com](tejasvi.y.mhase@gmail.com)
+
 <!--
 **99002669/99002669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/MhaseTejasvi" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/tejasvi-mhase-165141159/" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/tejasvi_mhase/" />][instagram]
