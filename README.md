@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://twitter.com/MhaseTejasvi"><img src="https://github.com/99002669/99002669/blob/main/twitter.png" width="100" height="100"></a>
+<a href="https://twitter.com/MhaseTejasvi"><img src="https://github.com/99002669/99002669/blob/main/twitter.png" width="50" height="50"></a>
 
