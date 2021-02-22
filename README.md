@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://twitter.com/MhaseTejasvi"><img src="https://github.com/99002669/99002669/blob/main/twitter.png" width="40" height="40"></a>
+<a href="https://twitter.com/MhaseTejasvi"><img src="https://github.com/99002669/99002669/blob/main/twitter.png" width="40" height="40"></a></t>
 <a href="https://www.linkedin.com/in/tejasvi-mhase-165141159/"><img src="https://github.com/99002669/99002669/blob/main/linkedin.png" width="40" height="40"></a>
 <a href="https://www.facebook.com/profile.php?id=100004188078327"><img src="https://github.com/99002669/99002669/blob/main/facebook.png" width="40" height="40"></a>
 <a href="https://www.instagram.com/tejasvi_mhase/"><img src="https://github.com/99002669/99002669/blob/main/instagram.png" width="40" height="40"></a>
