@@ -20,15 +20,17 @@ Here are some ideas to get you started:
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt_text][5.1]][5]
+[![alt_text][6.1]][6]
 
 
 <!-- icon links-->
 
-[1.1]:https://github.com/99002669/99002669/blob/main/twitter.png 
-[2.1]:< img src="https://github.com/99002669/99002669/blob/main/linkedin.png" width="48">
+[1.1]:
+[2.1]:
 [3.1]:https://github.com/99002669/99002669/blob/main/facebook.png
-[4.1]:https://github.com/99002669/99002669/blob/main/instagram.png
-[5.1]:https://github.com/99002669/99002669/blob/main/github.jpg
+[4.1]:
+[5.1]:
+[6.1]:
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
