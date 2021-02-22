@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![https://github.com/99002669/99002669/blob/main/gmail.png/100/100]](mailto:tejasvi.y.mhase@gmail.com) 
 -->
-[<img align="left" href="https://twitter.com/MhaseTejasvi" width="22px" src="https://github.com/99002669/99002669/blob/main/twitter.png" />][twitter]
+[<img align="left" src="https://github.com/99002669/99002669/blob/main/twitter.png" />][https://twitter.com/MhaseTejasvi]
 
 
