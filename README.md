@@ -26,8 +26,5 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=99002669&count_private=true&theme=tokyonight&showicons=true)]()</br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=99002669&langs_count=5&theme=tokyonight)]()
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=99002688 alt=99002688 /> </p>![GitHub last commit](https://img.shields.io/github/last-commit/99002669/99002669)
-<!--
-[![Github stats](https://github-readme-stats.vercel.app/api?username=99002688&show_icons=true&include_all_commits=true)](https://github.com/99002688/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99002688&layout=compact)](https://github.com/99002688/github-readme-stats)
--->
+<p align=left> <img src=https://komarev.com/ghpvc/?username=99002688 alt=99002688 /> </p><p ![GitHub last commit](https://img.shields.io/github/last-commit/99002669/99002669)/></p>
+
