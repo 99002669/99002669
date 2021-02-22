@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![https://github.com/99002669/99002669/blob/main/gmail.png/100/100]](mailto:tejasvi.y.mhase@gmail.com) 
--->
-[<img align="left" src="https://github.com/99002669/99002669/blob/main/twitter.png" />][https://twitter.com/MhaseTejasvi]
 
+[<img align="left" src="https://github.com/99002669/99002669/blob/main/twitter.png" />][https://twitter.com/MhaseTejasvi]
+-->
+
+
+<a href="https://twitter.com/MhaseTejasvi"><img src="https://github.com/99002669/99002669/blob/main/twitter.png"></a>
 
