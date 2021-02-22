@@ -15,28 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt_text][5.1]][5]
-[![alt_text][6.1]][6]
-
-
-<!-- icon links-->
-
-[1.1]:
-[2.1]:
-[3.1]:<img src="https://your-image-url.type" width="100" height="100">
-[4.1]:
-[5.1]:
-[6.1]:
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/MhaseTejasvi
-[2]: https://www.linkedin.com/in/tejasvi-mhase-165141159/
-[3]: https://www.facebook.com/profile.php?id=100004188078327
-[4]: https://www.instagram.com/tejasvi_mhase/
-[5]: https://github.com/99002669
+[![Gmail_icon](https://github.com/99002669/99002669/blob/main/gmail.png)](mailto:tejasvi.y.mhase@gmail.com) 
