@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=99002669&count_private=true&theme=tokyonight&showicons=true)]()</br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=99002669&langs_count=5&theme=tokyonight)]()
 
-|Pull Request|Last Commit|
-|------------|-----------|
+
 |![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/99002669/99002669)|![GitHub last commit](https://img.shields.io/github/last-commit/99002669/99002669)|
 
 <!--
