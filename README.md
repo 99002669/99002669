@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/MhaseTejasvi" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/MhaseTejasvi" />][https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/tejasvi-mhase-165141159/" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/tejasvi_mhase/" />][instagram]
