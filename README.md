@@ -1,4 +1,4 @@
-### Hi there, I'm Tejasvi Mhase👋
+### Hi there, I'm Tejasvi Mhase
 
 <!--
 **99002669/99002669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
