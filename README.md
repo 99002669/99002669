@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/99002669"><img src="https://github.com/99002669/99002669/blob/main/github-logo.png" width="30" height="30"></a>
 
 ### GitHub Activities:
-<p align=left> <img src=https://komarev.com/ghpvc/?username=99002688 alt=99002688 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=99002669 alt=99002669 /> </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/99002669/99002669)
 
